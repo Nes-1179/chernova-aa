@@ -1,0 +1,14 @@
+file:/home/anastasia/.gitconfig	user.name=anastasia
+file:/home/anastasia/.gitconfig	user.email=anastasiacernova331@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/Nes-1179/chernova-aa.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	user.name=anastasia
+file:.git/config	user.email=anastasiacernova331@gmail.com
+file:.git/config	branch.first.remote=origin
+file:.git/config	branch.first.merge=refs/heads/first

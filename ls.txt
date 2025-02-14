@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 anastasia anastasia 4,0K фев 14 16:23 ./
+drwxr-xr-x 5 anastasia anastasia 4,0K фев 14 16:19 ../
+-rw-rw-r-- 1 anastasia anastasia  724 фев 14 16:23 config.txt
+-rw-rw-r-- 1 anastasia anastasia  166 фев 14 16:20 first.txt
+drwxrwxr-x 8 anastasia anastasia 4,0K фев 14 16:23 .git/
+-rw-rw-r-- 1 anastasia anastasia    0 фев 14 16:23 ls.txt
+-rw-rw-r-- 1 anastasia anastasia   13 фев 14 16:19 README.md
+-rw-rw-r-- 1 anastasia anastasia  199 фев 14 16:20 status.txt
